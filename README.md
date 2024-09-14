@@ -10,3 +10,6 @@ Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico
 permita identificar puntos clave, y con base en ellos, optimizar la gestión del talento y 
 fomentar un entorno laboral más inclusivo y diverso.
 
+## RESULTADOS
+1.- Del personal activo predomina el genero femenino.
+![image](https://github.com/user-attachments/assets/1acda8c2-37bc-4312-9579-e735a8c3b6c3)
