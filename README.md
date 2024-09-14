@@ -11,6 +11,9 @@ permita identificar puntos clave, y con base en ellos, optimizar la gestión del
 fomentar un entorno laboral más inclusivo y diverso.
 
 ## RESULTADOS
+
+https://public.tableau.com/app/profile/martin.rodriguez1075/viz/Casoprctico_17245301347180/DashRH
+
 1.- Del personal activo predomina el genero femenino.
 
 ![image](https://github.com/user-attachments/assets/1acda8c2-37bc-4312-9579-e735a8c3b6c3)
